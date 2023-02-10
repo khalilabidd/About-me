@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khalil Abid</h1>
-<h3 align="center">A passionate Data Scientist and a programming enthusiast</h3>
+<h3 align="center">A passionate Data Scientist/Engineer and a programming enthusiast</h3>
 
 - 📄 Know about my experiences on my [LinkedIn Profile](https://www.linkedin.com/in/khalilabid/)
 
