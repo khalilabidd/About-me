@@ -1,9 +1,19 @@
-<h1 align="center">Hi 👋, I'm Khalil Abid</h1>
+<h1 align="center">Hi 👋, I'm Khalil Abid </h1>
 <h3 align="center">A passionate Data Engineer and a programming enthusiast</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khalilabidd&label=Profile%20views&color=0e75b6&style=flat" alt="khalilabidd" /> </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.r-project.org/" target="_blank"> <img src="https://www.r-project.org/Rlogo.png" alt="R" width="40" height="40"/> <a href="https://www.w3schools.com/sql/" target="_blank"> <img src="https://3wa.fr/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2020/04/sql-logo.png.webp" alt="SQL" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://pandas.pydata.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/langfr-220px-Pandas_mark.svg.png" alt="pandas" width="40" height="40"/> </a><a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a><a href="https://dart.dev/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dart-logo.png/600px-Dart-logo.png" alt="Dart" width="40" height="40"/> </a><a href="https://flutter.dev/" target="_blank"> <img src="https://iconape.com/wp-content/png_logo_vector/flutter-logo.png" alt="Flutter" width="40" height="40"/> </a>
-<a href="https://riverpod.dev/" target="_blank"> <img src="https://riverpod.dev/img/logo.svg" alt="Riverpod" width="40" height="40"/> </a>
+- 📄 Know about my experiences on my [LinkedIn Profile](https://www.linkedin.com/in/khalilabid/)
+
+## 🛠️Languages and Tools:
+
+![Technologies](https://go-skill-icons.vercel.app/api/icons?i=py,pandas,spark,postgres,mongodb,docker,git,jenkins,sklearn,flask,postman,r,cpp,dart,flutter,firebase,windows,databricks,azure,aws,gcp&titles=true)
 
 
+## 📫 Get in Touch 
+
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Feel free to reach out!
+
+## 🔗 Connect with Me
+
+<a href="https://linkedin.com/in/khalilabid" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
