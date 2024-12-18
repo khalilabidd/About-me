@@ -17,4 +17,4 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 ## 🔗 Connect with Me
 
-<a href="https://linkedin.com/in/khalilabid" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+[![Linkedin](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://linkedin.com/in/khalilabid)
